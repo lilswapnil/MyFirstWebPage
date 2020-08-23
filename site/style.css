@@ -3,6 +3,10 @@ h1{
     color: royalblue;
 }
 
+header li {
+    list-style: none;
+}
+
 p {
     text-align: center;
 }
