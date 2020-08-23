@@ -3,10 +3,19 @@ h1{
     color: royalblue;
 }
 
+header{
+    align-content: center;
+}
 header li {
     list-style: none;
 }
 
-p {
+footer > p {
     text-align: center;
+}
+
+picture {
+    position: fixed;
+    left: 100px;
+    right: 0px;
 }
